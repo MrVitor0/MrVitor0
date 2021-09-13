@@ -1,12 +1,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
+-   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
+-   :package: Javascript [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
+-   :pencil2: Kali Linux / Ubuntu (Default Build) / Windows (7-10)
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
--   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :key: NCTHA key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
 ---
 
