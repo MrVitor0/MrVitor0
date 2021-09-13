@@ -10,7 +10,7 @@
 
 ---
 
-#### :bar_chart: Weekly development breakdown
+#### :bar_chart: HORAS DEDICADOS AO DESENVOLVIMENTO (ATUALIZA SEMANALMENTE)
 
 <!--START_SECTION:waka-->
 ```text
