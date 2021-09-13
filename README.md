@@ -1,7 +1,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-I'm Y**ou** Y**u**f**an**, a freshman at THU.
+Olá! Como vai? .
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
@@ -16,16 +16,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 <!--START_SECTION:waka-->
 ```text
-Lean         1 hr 43 mins    ███████▓░░░░░░░░░░░░░░░░░   31.11 % 
-Bash         1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Vue.js       38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-VimL         38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Vue.js       05:26 mins      ███████▓░░░░░░░░░░░░░░░░░   35.11 % 
+Laravel      04:26 mins      ███████▓░░░░░░░░░░░░░░░░░   31.11 % 
+Php          04:26 mins      ███████▓░░░░░░░░░░░░░░░░░   35.11 % 
+Javacript    05:26 mins      █████████▓░░░░░░░░░░░░░░░   32.11 % 
+SQL          02:21 mins      ███████▓░░░░░░░░░░░░░░░░░   31.11 % 
 TypeScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 <!--END_SECTION:waka-->
 
 ---
-
-#### :star2: Projects starred by me
-
-[My Awesome Stars](AWESOME-STARS.md)
