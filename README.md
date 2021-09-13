@@ -1,11 +1,12 @@
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 -   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
--   :package: Javascript [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
--   :pencil2: Kali Linux / Ubuntu (Default Build) / Windows (7-10)
+-   :package: JAVASCRIPT [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
+-   :package: HTML/CSS [THE KING OF ENVATO MARKET]
+-   :pencil2: KALI LINUX / UBUNTU (DEFAULT BUILD) / WINDOWS (7-10)
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
--   :key: NCTHA key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
+-   :key: Public Key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
 ---
 
