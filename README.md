@@ -4,8 +4,8 @@
 -   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
 -   :package: JAVASCRIPT [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
 -   :package: HTML/CSS [THE KING OF ENVATO MARKET]
+-   :man_scientist: PYTHON AS I.A DEVELOPER (MACHINE LEARNING)
 -   :pencil2: KALI LINUX / UBUNTU (DEFAULT) / WINDOWS (7-10)
--   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :key: Public Key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
 ---
