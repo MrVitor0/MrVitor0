@@ -12,7 +12,7 @@
 
 #### :bar_chart: HORAS DEDICADAS AO DESENVOLVIMENTO (ATUALIZA SEMANALMENTE)
 
-<!--START_SECTION:waka-->
+<!--START_SECTION JUNTAR OS DOIS PARA ATIVAR :waka-->
 ```text
 Vue.js       05:26 mins      ███████▓░░░░░░░░░░░░░░░░░   35.11 % 
 Laravel      04:26 mins      ███████▓░░░░░░░░░░░░░░░░░   31.11 % 
@@ -21,6 +21,6 @@ Javacript    05:26 mins      █████████▓░░░░░░░
 SQL          02:21 mins      ███████▓░░░░░░░░░░░░░░░░░   31.11 % 
 TypeScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION JUNTAR OS DOIS PARA ATIVAR :waka-->
 
 ---
