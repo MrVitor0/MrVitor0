@@ -1,8 +1,6 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-Olá! Como vai? .
-
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
 -   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
