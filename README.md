@@ -1,5 +1,5 @@
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="85em" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 -   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
 -   :package: JAVASCRIPT [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
