@@ -9,12 +9,6 @@
 -   :key: Public Key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
 ---
-## Saudações querido Visitante! Me chamo Eduardo Dahmer
- <div>
-  <a href="https://github.com/devdahmer99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdahmer99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdahmer99&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Edu-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
