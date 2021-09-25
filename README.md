@@ -1,5 +1,5 @@
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src=" <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>">](https://metrics.lecoq.io/ouuan?template=classic)
 
 -   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
 -   :package: JAVASCRIPT [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
