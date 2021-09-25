@@ -8,7 +8,7 @@
 -   :pencil2: KALI LINUX / UBUNTU (DEFAULT) / WINDOWS (7-10)
 -   :key: Public Key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
----
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Vitor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
@@ -21,9 +21,10 @@
   <img align="center" alt="Vitor-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Vitor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Vitor-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color: white !important">
-</div>
 
-<br>
+</div>
+  
+  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCEvBtCCC61bYYUWblBtrIKw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
