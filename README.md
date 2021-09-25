@@ -23,6 +23,7 @@
   <img align="center" alt="Vitor-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color: white !important">
 </div>
 
+<br>
  
 <div> 
   <a href="https://www.youtube.com/channel/UCEvBtCCC61bYYUWblBtrIKw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
