@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Vitor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="Vitor-Vue" height="30" width="40" src="  https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+    <img align="center" alt="Vitor-Vue" height="30" width="40" src="  https://cdn.auth0.com/blog/vuejs/vue-logo.png">
 
   <img align="center" alt="Vitor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vitor-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
