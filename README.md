@@ -1,5 +1,8 @@
-
-  <img height="85em" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br>
 
 -   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
 -   :package: JAVASCRIPT [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
@@ -8,7 +11,8 @@
 -   :pencil2: KALI LINUX / UBUNTU (DEFAULT) / WINDOWS (7-10)
 -   :key: Public Key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
----
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Vitor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
