@@ -1,11 +1,13 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
--   :hammer_and_pick: PHP [LARAVEL/SLIM FRAMEWORK/RAIN TPL]
--   :package: JAVASCRIPT [JQUERY/TYPESCRIPT/VUE.JS/REACT.JS]
--   :package: HTML/CSS [BLADE/BOOTSTRAP]
--   :man_scientist: DATA SCIENTIST (MACHINE LEARNING)
--   :pencil2: KALI LINUX / UBUNTU (DEFAULT) / WINDOWS (7-10)
+-   :hammer_and_pick: Php [Laravel/CodeIgniter/Symfony]
+-   :package: C# [.NET Framework/Unity]
+-   :package: Javascript [Angular/Vue/React/Typescript]
+-   :package: Python [Django/Pyramid/Circuits]
+-   :package: Java [Spring/Struts/Hibernate]
+-   :man_scientist: Data Scientist (Machine Learning)
+-   :pencil2: Kali Linux / Ubuntu (DEFAULT) / WINDOWS (7-10)
 -   :key: Public Key: [`FJOEWR3232RHEWKFMSDKWEEV1T9R`](friv.com)
 
 
