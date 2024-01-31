@@ -1,5 +1,5 @@
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=gotham">](https://github.com/anuraghazra/github-readme-stats)
 
 -   :hammer_and_pick: Php [Laravel/CodeIgniter/Symfony]
 -   :package: C# [.NET Framework/Unity]
