@@ -1,9 +1,9 @@
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=gotham">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=contribs,prs">](https://github.com/anuraghazra/github-readme-stats)
 
--   :hammer_and_pick: Php [Laravel/CodeIgniter/Symfony]
+-   :package: Javascript [React Native/React/Vue/Typescript/Node]
+-   :package: Php [Laravel/CodeIgniter/Symfony]
 -   :package: C# [.NET Framework/Unity]
--   :package: Javascript [Angular/Vue/React/Typescript]
 -   :package: Python [Django/Pyramid/Circuits]
 -   :package: Java [Spring/Struts/Hibernate]
 -   :man_scientist: Data Scientist (Machine Learning)
