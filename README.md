@@ -1,5 +1,5 @@
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=MrVitor0&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=contribs,prs">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">](https://metrics.lecoq.io/ouuan?template=classic)
 
 -   :package: Javascript [React Native/React/Vue/Typescript/Node]
 -   :package: Php [Laravel/CodeIgniter/Symfony]
