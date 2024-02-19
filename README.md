@@ -1,5 +1,4 @@
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">](https://metrics.lecoq.io/ouuan?template=classic)
 
 -   :package: Javascript [React Native/React/Vue/Typescript/Node]
 -   :package: Php [Laravel/CodeIgniter/Symfony]
@@ -13,7 +12,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Vitor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Vitor-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Vitor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
